@@ -1,0 +1,17 @@
+{
+  "name": "toolbox",
+  "main": "./lib/toolbox",
+  "version": "0.0.0",
+  "description": "A set of tools to make your life easier.",
+  "keywords": ["utils", "toolbox", "helpers"],
+  "activationCommands": {
+    "atom-workspace": "toolbox:swap-quote"
+  },
+  "repository": "https://github.com/cbramy/toolbox",
+  "license": "Apache-2.0",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
